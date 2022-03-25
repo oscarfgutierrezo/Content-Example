@@ -17,6 +17,10 @@ module.exports = {
       fontFamily: {
         "sans": "DM Sans"
       },
+      backgroundImage: {
+        cont05: 'url("../images/content-05.png")',
+        cont06: 'url("../images/content-06.png")',
+      },
     },
   },
   plugins: [],
