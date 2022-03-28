@@ -20,6 +20,8 @@ module.exports = {
       backgroundImage: {
         cont05: 'url("../images/content-05.png")',
         cont06: 'url("../images/content-06.png")',
+        cont14: 'url("../images/content-14.png")',
+        cont15: 'url("../images/content-15.png")',
       },
     },
   },
