@@ -24,6 +24,7 @@ module.exports = {
         cont14: 'url("../images/content-14.png")',
         cont15: 'url("../images/content-15.png")',
         cont17: 'url("../images/content-17.png")',
+        cont22: 'url("../images/content-22.png")',
       },
     },
   },
