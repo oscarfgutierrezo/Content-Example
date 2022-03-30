@@ -13,7 +13,8 @@ module.exports = {
         "light-violet": "#482BE7",
         "pink": "#E93A7D",
         "green": "#25DAC5",
-        "grey": "#EBEAED"
+        "grey": "#EBEAED",
+        "red": "#EA3223",
       },
       fontFamily: {
         "sans": "DM Sans"
@@ -26,6 +27,9 @@ module.exports = {
         cont17: 'url("../images/content-17.png")',
         cont22: 'url("../images/content-22.png")',
       },
+      gridTemplateColumns: {
+        'fit-194': 'repeat(auto-fit, minmax(194px, 1fr))',
+      }
     },
   },
   plugins: [],
