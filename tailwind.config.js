@@ -17,7 +17,8 @@ module.exports = {
         "red": "#EA3223",
       },
       fontFamily: {
-        "sans": "DM Sans"
+        "sans": "DM Sans",
+        "inconsolata": "Inconsolata"
       },
       backgroundImage: {
         cont05: 'url("../images/content-05.png")',
@@ -32,5 +33,7 @@ module.exports = {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwind-scrollbar"),
+  ],
 }
